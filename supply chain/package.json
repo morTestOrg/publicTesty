@@ -1,0 +1,16 @@
+{
+  "name": "@cxsca/monorepo",
+  "version": "1.0.0",
+  "description": "sca-web-client-spa",
+  "main": "app.js",
+  "author": "Lumo",
+  "dependencies": {
+    "momnet": "2.29.1",
+    "ua-parser-js": "0.7.29",
+    "node-ipc": "9.2.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "nx": "16.7.4"
+  }
+}
